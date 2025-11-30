@@ -8,3 +8,12 @@ How does quality management support project success? By helping team to manage e
 Add screenshots of MS Teams announcements in Part A.
 
 Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
+
+
+<img width="1082" height="624" alt="Screenshot 2025-11-30 232104" src="https://github.com/user-attachments/assets/90939517-5a9a-4dac-9bfc-146feaea1b20" />
+
+
+<img width="1537" height="830" alt="Screenshot 2025-11-30 232134" src="https://github.com/user-attachments/assets/3243c041-99a0-4d3c-9dd3-6dafc52d6703" />
+
+
+<img width="1132" height="338" alt="Screenshot 2025-11-30 232415" src="https://github.com/user-attachments/assets/ebf63639-b400-443a-941e-54403235bba4" />
