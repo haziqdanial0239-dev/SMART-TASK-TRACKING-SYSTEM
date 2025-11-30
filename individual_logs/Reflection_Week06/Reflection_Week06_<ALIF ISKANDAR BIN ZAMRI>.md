@@ -7,7 +7,8 @@
 4.	Add screenshots of MS Teams announcements in Part A.
    
 9.	Add existing and modified schedules, announced on teams, and screenshots added to your reflection log.
-Annoucement for the reminder week 6 task (screenshot): ![Uploading image.png…]()
+Annoucement for the reminder week 6 task (screenshot): 
+<img width="1264" height="438" alt="Screenshot 2025-11-30 232315" src="https://github.com/user-attachments/assets/a817b272-f22a-4508-ac49-d5b5dcdeb063" />
 
 
 Existed project planner (screenshot): image
