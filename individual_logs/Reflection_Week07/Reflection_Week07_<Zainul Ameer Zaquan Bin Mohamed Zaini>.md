@@ -1,5 +1,7 @@
 1.How does effective communication reduce project risks?
+
 Effective communication reduces project risks by ensuring that all stakeholders have a clear and understand the project objectives, requirements, timelines, and responsibilities. Regularly and  clear communication helps identify issues early, such as requirement changes or technical problem, allowing corrective maintenance to be taken before problems escalate. It also minimizes the misunderstandings between stakeholders, reduces repetitive works, and ensures that all work progress are aligned with the project scope and goals.
 
 2.Which stakeholder is most critical to your project’s success and why?
+
 The Project Sponsor (Company Management) is the most critical stakeholder to the project’s success because they provide the project resources, strategic direction, and final approval for the project. Their support affects the budget allocation, prioritization, and decision-making throughout the project lifecycle. Without their sponsorship, the AI task tracking system may face delays, scope reduction, or lack of organizational adoption.
