@@ -1,11 +1,20 @@
+# Project Communication Plan: Task Tracking System
 
-Communication item	Audience	Frequency	Method
-Weekly progress update	Lecturer/Project Sponsor	Weekly (Fri)	MS Teams post + 1-page summary
-Sprint planning & standup notes	Team Members	Weekly planning; daily standup	Teams + GitHub Projects
-Technical design changes	Team Members; IT Department	As needed (on change)	GitHub PRs + Architecture doc
-Risk & privacy updates	DPO; Lecturer; IT Department	Bi-weekly	Email + Risk register (SharePoint)
-Pilot usability feedback	Campus Security Staff	After each pilot session	On-site debrief + Feedback form
-Executive milestone brief	Campus Management	At phase gates	Slide deck + 10-min briefing
-Budget/Procurement status	Procurement/Finance	On request / milestone	Email + BOM spreadsheet
-Maintenance coordination	Maintenance/Facilities	Pre-install; post-install	WhatsApp group + Site checklist
-Student transparency notice	Students/Residents	Before pilot; on policy change	Campus portal notice + FAQ page
+| Communication Item | Audience | Frequency | Method |
+| :--- | :--- | :--- | :--- |
+| **Daily Stand-up** | Development Team | Daily (Morning) | Slack / MS Teams |
+| **Sprint Planning** | Team & Product Owner | Every 2 Weeks | Zoom / Video Call |
+| **Sprint Demo** | Stakeholders & Sponsor | Every 2 Weeks | Live Demo / Teams |
+| **Technical Review** | Developers & Architect | Weekly | GitHub / Code Reviews |
+| **Project Status Report** | Project Sponsor | Weekly | Email Summary / PDF |
+| **Risk & Issue Log** | Stakeholders | As Needed (High Priority) | Shared Dashboard (Jira/Trello) |
+| **User Feedback Sync** | Beta Users / Stakeholders | Monthly | Survey / Focus Group |
+
+---
+
+### Communication Item Details
+
+* **Daily Stand-up**: Focuses on immediate progress and identifying blockers for the Task Tracking System development.
+* **Sprint Demo**: A live walkthrough of new features (e.g., task creation, notification engine) for stakeholders.
+* **Technical Review**: In-depth code quality checks and architecture alignment using GitHub Pull Requests.
+* **User Feedback Sync**: Monthly sessions to gather insights from beta testers to refine the UI/UX.
