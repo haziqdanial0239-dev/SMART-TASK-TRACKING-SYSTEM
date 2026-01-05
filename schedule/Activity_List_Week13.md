@@ -10,7 +10,7 @@
 | A3.2 | Design model structure | 3 | A3.1 |
 | A4.1 | Train model | 6 | A3.2 |
 | A5.1 | Evaluate model performance | 2 | A4.1 |
-| A6.1 | Develop dashboard | 3 | A5.1 |
+| A6.1 | Develop dashboard | 33 | A5.1 |
 | A7.1 | Testing and validation | 4 | A6.1 |
 | A8.1 | Final report and presentation | 2 | A7.1 |
 
