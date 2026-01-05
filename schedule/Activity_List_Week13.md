@@ -1,5 +1,5 @@
 | Activity ID | Activity Name | Durations (days) |
-|--------|-------|-------------|--------|--------|-----|
+|--------|-------|------|
 | A1.1 | Clarify project goals | 8 |
 | A2.1 | Data Collection | 7 |
 | A2.2 | Clean and prepare dataset | 4 |
