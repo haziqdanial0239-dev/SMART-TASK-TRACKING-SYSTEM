@@ -26,3 +26,8 @@
 - **A6.1** requires model evaluation to be complete
 - **A7.1** requires working dashboard to be developed
 - **A8.1** requires all testing to be completed
+
+## Critical Path (AoA) 
+
+- Critical Path: A → B → C → D → E → F → G → H → I
+- Project Duration: 52 days
