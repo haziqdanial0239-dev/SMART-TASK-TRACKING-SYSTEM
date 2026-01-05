@@ -4,7 +4,7 @@ Identifying the critical path is important because it shows the sequence of acti
 
 2. Which activity posed the highest scheduling risk?
 
-The model training activity (A4.1) posed the highest scheduling risk because it required the longest duration and depended on the completion of all prior tasks, making it more vulnerable to delays caused by technical or resource issues.
+The model training activity (A6.1) posed the highest scheduling risk because it required the longest duration and depended on the completion of all prior tasks, making it more vulnerable to delays caused by technical or resource issues.
 
 3. What trade-offs are involved when crashing a project?
 
